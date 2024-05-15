@@ -3,3 +3,6 @@ inventory_testnet.ini
 inventory.yaml
 inventory_testnet.yaml
 playground.md
+roles/.DS_Store
+
+.DS_Store
